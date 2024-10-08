@@ -1,0 +1,1 @@
+{"batch_size": 64, "seq_length": 35, "d_model": 128, "nhead": 2, "d_hid": 256, "nlayers": 2, "dropout": 0.2, "epochs": 5, "lr": 0.001, "max_samples": 10000}
